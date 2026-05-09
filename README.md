@@ -34,28 +34,30 @@ AI駆動開発とネットワーク・サーバ構築が趣味です。
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-F59E0B?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,aws,nginx,flask,git" alt="Tech stack" />
 </p>
 
 ## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Termnix-IT&show_icons=true&theme=transparent&title_color=93c5fd&text_color=e2e8f0&icon_color=22c55e&border_color=334155&ring_color=60a5fa" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Termnix-IT&layout=compact&theme=transparent&title_color=93c5fd&text_color=e2e8f0&border_color=334155" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-eta-wine-31.vercel.app/api?username=Termnix-IT&show_icons=true&bg_color=0f172a&border_radius=12&hide_border=true&title_color=93c5fd&text_color=e2e8f0&icon_color=22c55e&ring_color=60a5fa" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Termnix-IT&background=0f172a&border_radius=12&hide_border=true&stroke=0f172a&ring=22c55e&fire=22c55e&currStreakLabel=93c5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=64748b" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-eta-wine-31.vercel.app/api/top-langs/?username=Termnix-IT&layout=compact&bg_color=0f172a&border_radius=12&hide_border=true&title_color=93c5fd&text_color=e2e8f0" alt="Top languages" />
 </div>
 
 ## Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Termnix-IT&bg_color=0f172a&color=93c5fd&line=22c55e&point=f8fafc&area=true&hide_border=true" alt="Activity graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Termnix-IT/Termnix-IT/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Termnix-IT/Termnix-IT/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Termnix-IT/Termnix-IT/output/github-snake.svg" />
+  </picture>
 </div>
 
 ## Writing
@@ -67,4 +69,8 @@ AI駆動開発とネットワーク・サーバ構築が趣味です。
 
 <div align="center">
   <sub>Built around Linux, networking, and public learning.</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&reversal=true&height=120&color=0:22c55e,50:1d4ed8,100:0f172a" alt="footer" />
 </div>
