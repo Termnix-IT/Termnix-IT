@@ -60,11 +60,6 @@ AI駆動開発とネットワーク・サーバ構築が趣味です。
   </picture>
 </div>
 
-## Writing
-
-- Qiita: [@Termnix-IT](https://qiita.com/Termnix-IT)
-- X: [@Termnix_IT](https://x.com/Termnix_IT)
-
 ---
 
 <div align="center">
