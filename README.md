@@ -42,15 +42,11 @@ AI駆動開発とネットワーク・サーバ構築が趣味です。
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-eta-wine-31.vercel.app/api?username=Termnix-IT&show_icons=true&bg_color=0f172a&border_radius=12&hide_border=true&title_color=93c5fd&text_color=e2e8f0&icon_color=22c55e&ring_color=60a5fa" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Termnix-IT&background=0f172a&border_radius=12&hide_border=true&stroke=0f172a&ring=22c55e&fire=22c55e&currStreakLabel=93c5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=64748b" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Termnix-IT&background=0f172a&border_radius=12&hide_border=true&stroke=0f172a&ring=22c55e&fire=22c55e&currStreakLabel=93c5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=64748b" alt="GitHub streak" />
   <img height="165" src="https://github-readme-stats-eta-wine-31.vercel.app/api/top-langs/?username=Termnix-IT&layout=compact&bg_color=0f172a&border_radius=12&hide_border=true&title_color=93c5fd&text_color=e2e8f0" alt="Top languages" />
 </div>
 
 ## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Termnix-IT&bg_color=0f172a&color=93c5fd&line=22c55e&point=f8fafc&area=true&hide_border=true" alt="Activity graph" />
-</div>
 
 <div align="center">
   <picture>
