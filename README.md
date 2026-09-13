@@ -21,7 +21,7 @@
 ## Focus
 
 AI駆動開発とネットワーク・サーバ構築が趣味です。
-経歴・資格・構築事例は [ポートフォリオサイト](https://www.termnix-it.jp) にまとめています。
+このアカウントは検証・習作を含むコードの保管庫です。経歴・資格・構築事例などの整理されたアウトプットは [ポートフォリオサイト](https://www.termnix-it.jp) にまとめています。
 
 <p>
   <img src="https://img.shields.io/badge/Home%20Lab-0f172a?style=flat-square&logo=linuxcontainers&logoColor=white" alt="Home Lab" />
